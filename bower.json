@@ -1,0 +1,23 @@
+{
+  "name": "ee-dashboard",
+  "title": "EE Dashboard",
+  "description": "EasyEngine Dashboard",
+  "version": "0.1.0",
+  "main": "/",
+  "ignore": [
+    "**/.*",
+    "*.md",
+    "assets/sass/*",
+    "assets/js/src/*",
+    "assets/js/vendor/*",
+    "assets/img/src/*",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "foundation-sites": "^6.3.1",
+    "motion-ui": "^1.2.2",
+    "font-awesome": "^4.7.0",
+    "html5shiv": "^3.7.3"
+  }
+}

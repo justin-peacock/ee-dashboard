@@ -1,0 +1,7 @@
+.button {
+  @include button($background: $anchor-color, $background-hover: $anchor-color-hover);
+}
+
+.callout {
+  @include callout($primary-color);
+}

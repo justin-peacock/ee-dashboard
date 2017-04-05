@@ -1,0 +1,11 @@
+.site-content {
+  @include grid-row;
+}
+
+.site-list {
+  @include grid-col(8);
+}
+
+.sidebar {
+  @include grid-col(4);
+}

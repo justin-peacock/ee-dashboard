@@ -1,0 +1,13 @@
+.site-header {
+  @include grid-row;
+  padding-top: rem-calc(24);
+  padding-bottom: rem-calc(24);
+}
+
+.site-logo {
+  font-size: rem-calc(21);
+
+  .fa {
+    color: $primary-color;
+  }
+}

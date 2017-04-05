@@ -1,0 +1,36 @@
+{
+  "name": "ee-dashboard",
+  "title": "EE Dashboard",
+  "description": "EasyEngine Dashboard",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mrdink/ee-dashboard",
+  "author": {
+    "name": "Justin Peacock",
+    "email": "justin@sixteenbit.com",
+    "url": "https://byjust.in"
+  },
+  "dependencies": {
+    "load-grunt-config": "latest",
+    "load-grunt-tasks": "latest",
+    "autoprefixer": "latest",
+    "cssnano": "latest",
+    "node-sass": "latest",
+    "pixrem": "latest",
+    "time-grunt": "latest"
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-browser-sync": "latest",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-compress": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-rtlcss": "latest",
+    "grunt-notify": "latest",
+    "grunt-postcss": "latest",
+    "grunt-sass": "latest"
+  }
+}
